@@ -7,7 +7,11 @@ This program is an Implementation of the LBM Tau 1 algorithm found in:
 
 Maciej Matyka; Michal Dzikowski 2021. Memory-efficient Lattice Boltzmann method of low Reynold number flows. Computer Physics Communications 267.
 
+Three Initial configurations can be chosen:
 
+initializeLDC = Lid Driven Cavity<br />
+initializeTunnel = Tunnel<br />
+initializeVKS = Vortex Karman Street<br />
 
 Commands one can use so far:
 
