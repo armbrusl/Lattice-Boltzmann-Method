@@ -16,6 +16,6 @@ Commands one can use so far:
 
 * **I Button (Pressed)** &rarr; Resets the entire grid. <br /> <br />
 
-* **S Button (Pressed) ** &rarr; Safe all the Data to a file (matrix U, V, F, R and fx, fy, U0, steps). <br /> 
+* **S Button (Pressed) **&rarr; Safe all the Data to a file (matrix U, V, F, R and fx, fy, U0, steps). <br /> 
 * **U Button (Hold)** +  **UP Button (Pressed)** / **DOWN Button (Pressed)**&rarr; Increasing / Decreasing the "pressure" velocity fx. <br /> 
 * **R Button (Pressed)**&rarr; Reset the entire system. <br /> <br /> 
