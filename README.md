@@ -5,7 +5,9 @@ In order for this code to work add the header file (olcPixelGameEngine.h) found 
 
 This program is an Implementation of the LBM Tau 1 algorithm found in:
 
-Maciej Matyka; Michal Dzikowski 2021. \textit{Memory-efficient Lattice Boltzmann method of low Reynold number flows}. Computer Physics Communications 267.
+Maciej Matyka; Michal Dzikowski 2021. Memory-efficient Lattice Boltzmann method of low Reynold number flows. Computer Physics Communications 267.
+
+
 
 Commands one can use so far:
 
