@@ -3,10 +3,6 @@
 In order for this code to work add the header file (olcPixelGameEngine.h) found at https://github.com/OneLoneCoder/olcPixelGameEngine.
 <br /> <br />
 
-This program is an Implementation of the LBM Tau 1 algorithm found in:
-
-Maciej Matyka; Michal Dzikowski 2021. Memory-efficient Lattice Boltzmann method of low Reynold number flows. Computer Physics Communications 267.
-
 Three Initial configurations can be chosen:
 
 initializeLDC = Lid Driven Cavity<br />
